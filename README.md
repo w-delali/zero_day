@@ -1,5 +1,6 @@
-#Vigrant
-##Learning Objectives
+# Vigrant
+## Learning Objectives
+At the end of this lesson one should know the following
 * What is a virtual machine
 * What is Vagrant
 * Who wrote Vagrant
